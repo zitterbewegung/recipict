@@ -1,0 +1,30 @@
+{
+  "name": "recipic",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "jest-expo": "~18.0.0",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "expo": "^20.1.2",
+    "react": "16.0.0-rc2",
+    "react-native": "^0.48.1",
+    "react-native-image-picker": "^0.26.3",
+    "react-native-image-resizer": "^1.0.0",
+    "react-native-intro": "^0.0.2",
+    "react-native-sentry": "^0.23.0",
+    "react-native-svg": "^5.4.1",
+    "react-navigation": "^1.0.0-beta.11",
+    "sentry": "^0.1.2"
+  }
+}
