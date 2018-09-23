@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "expo": "^20.1.2",
-    "react": "16.0.0-rc2",
-    "react-native": "^0.48.1",
+    "react": "^16.5.2",
+    "react-native": "^0.57.1",
     "react-native-image-picker": "^0.26.3",
     "react-native-image-resizer": "^1.0.0",
     "react-native-intro": "^0.0.2",
